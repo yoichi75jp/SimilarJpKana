@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.aufthesis.similarjpkana.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="3"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@null"
+            android:src="@drawable/title_image"/>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:gravity="center">
+
+        <LinearLayout
+            android:id="@+id/field"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/hiragana"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#192f60"
+                android:textColor="#2ca9e1"
+                android:text="@string/hiragana"
+                android:textSize="40sp"
+                android:layout_marginBottom="10dp"/>
+            <Button
+                android:id="@+id/katakana"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#192f60"
+                android:textColor="#dccb18"
+                android:text="@string/katakana"
+                android:textSize="40sp"
+                android:layout_marginBottom="10dp"/>
+            <Button
+                android:id="@+id/mixture"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#192f60"
+                android:textColor="#e2041b"
+                android:text="@string/mixture"
+                android:textSize="40sp"
+                android:layout_marginBottom="10dp" />
+
+            <Button
+                android:id="@+id/time_attack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#192f60"
+                android:textColor="#e7e7eb"
+                android:text="@string/time_attack"
+                android:textSize="40sp"
+                android:layout_marginTop="10dp" />
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                ads:adUnitId="@string/adUnitId"
+                ads:adSize="BANNER" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

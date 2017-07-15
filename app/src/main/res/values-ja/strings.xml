@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">にているかなカナ？</string>
+
+    <string name="blank">"　"</string>
+
+    <string name="hiragana">"ひらがな"</string>
+    <string name="katakana">"カタカナ"</string>
+    <string name="mixture">"ひらがな ＆ カタカナ"</string>
+
+    <string name="play_title">"まちがいさがし"</string>
+
+    <string name="instruction">まちがいを１つみつけてね！</string>
+    <string name="next_question">次の問題</string>
+    <string name="goal_achievement">みつけるのはやっ！\nこれまでで１ばんはやいよ！</string>
+    <string name="goal_achievement2">%1$d回おめでとう！\n目標達成！</string>
+
+    <string name="play_count">play_count</string>
+    <string name="max_time">max_time</string>
+    <string name="time_attack">タイムアタック</string>
+
+    <!--メイン画面で戻るボタンを押下したときのメッセージ-->
+    <string name="final_title">終了メニュー</string>
+    <string name="final_message">アプリケーションを終了しますか？</string>
+    <string name="final_ok">終了</string>
+    <string name="final_cancel">キャンセル</string>
+
+    <!--月が開けて前回までの記録がクリアされるときのメッセージ-->
+    <string name="next_title">実績</string>
+    <string name="next_title1">これまでのハイスコア</string>
+    <string name="next_title2">前回のスコア</string>
+    <string name="next_message1">今月はがんばろう！</string>
+    <string name="next_message2">おめでとう！\n記録更新です！\n前回の記録が最高です！</string>
+    <string name="next_ok">OK</string>
+
+    <string name="time_attack_title1">タイムアタック</string>
+    <string name="time_attack_title2">結果発表</string>
+    <string name="time_attack_message1">30秒以内にどれだけ間違いを探せるか挑戦してみましょう！</string>
+    <string name="time_attack_message2">お疲れ様でした\n%1$dこの間違いを見つける事ができました。</string>
+    <string name="time_attack_message3">今回はこれまでの最高記録です。</string>
+    <string name="time_attack_ok">OK</string>
+    <string name="time_attack_cancel">Cancel</string>
+
+    <string name="close">終了</string>
+    <string name="dashboard">実績を見る</string>
+    <string name="reset">リセット</string>
+
+    <string name="confirm">確認</string>
+    <string name="confirm_message">記録をリセットしようとしています。\n本当にリセットしていいですか？</string>
+
+    <string name="min">0</string>
+    <string name="max">50</string>
+
+    <string name="dashboard_title">レベル%1$d : 目標まであと%2$d 回</string>
+    <string name="desc_result">実績 %1$d 件</string>
+
+    <string name="record_max_time">これまでの最速解答時間</string>
+    <string name="record_max_time_score">%1$s(秒)</string>
+    <string name="record_time_attack">タイムアタックのベスト記録</string>
+    <string name="record_time_attack_score">%1$d(回/30秒)</string>
+
+    <string name="count_timeattack">count_timeattack</string>
+    <string name="count_induce">count_induce</string>
+
+    <string name="induce_title">いつもご利用ありがとうございます</string>
+    <string name="induce_message">操作性や仕様について、ご要望またはご不満な点などありましたらコメントとご評価頂ければ幸いです。\n今後ともよろしくお願いします。</string>
+    <string name="induce_ok">評価する</string>
+    <string name="induce_cancel">後で</string>
+
+    <string name="adUnitId">ca-app-pub-1485554329820885/5580836655</string>
+    <string name="adUnitInterId">ca-app-pub-1485554329820885/2349888250</string>
+    <string name="adUnitTestId">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

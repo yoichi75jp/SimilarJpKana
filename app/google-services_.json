@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "1072283566367",
+    "project_id": "similar-japanese-kana"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072283566367:android:6c3ba65b8098828c",
+        "android_client_info": {
+          "package_name": "com.aufthesis.similarjpkana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkKYu8dRcuo4TWFul0MdWUzVDWUgaYHNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-64731121-10"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
