@@ -26,6 +26,7 @@ import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
+import com.google.firebase.analytics.FirebaseAnalytics;
 
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
@@ -44,6 +45,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        Bundle fireLogBundle = new Bundle();
+        fireLogBundle.putString("TEST", "MyApp MainActivity.onCreate() is called.");
+        MyApp.getFirebaseAnalytics().logEvent(FirebaseAnalytics.Event.APP_OPEN, fireLogBundle);
 
         m_prefs = getSharedPreferences(getPackageName(), Context.MODE_PRIVATE);
 
