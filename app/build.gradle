@@ -2,13 +2,13 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion "26.0.0"
+    buildToolsVersion "26.0.2"
     defaultConfig {
         applicationId "com.aufthesis.similarjpkana"
         minSdkVersion 14
         targetSdkVersion 26
-        versionCode 8
-        versionName "1.0.5" //2017/07/20 1.0.5
+        versionCode 9
+        versionName "1.0.6" //2017/10/12 1.0.6
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -24,15 +24,15 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    compile 'com.android.support:appcompat-v7:26.0.0-beta2'
+    compile 'com.android.support:appcompat-v7:26.1.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
 
-    compile 'com.google.android.gms:play-services-analytics:11.0.2'
-    compile 'com.google.firebase:firebase-core:11.0.2'  // analyticsを実装
-    compile 'com.google.firebase:firebase-ads:11.0.2'
-    compile 'com.google.firebase:firebase-appindexing:11.0.2'
-    compile 'com.google.firebase:firebase-crash:11.0.2' // crashを実装
-    compile 'com.google.firebase:firebase-messaging:11.0.2'
+    compile 'com.google.android.gms:play-services-analytics:11.4.2'
+    compile 'com.google.firebase:firebase-core:11.4.2'  // analyticsを実装
+    compile 'com.google.firebase:firebase-ads:11.4.2'
+    compile 'com.google.firebase:firebase-appindexing:11.4.2'
+    compile 'com.google.firebase:firebase-crash:11.4.2' // crashを実装
+    compile 'com.google.firebase:firebase-messaging:11.4.2'
 }
 apply plugin: 'com.google.gms.google-services'
