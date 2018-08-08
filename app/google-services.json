@@ -8,12 +8,194 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:500599984017:android:b49ab8728938c96b",
+        "android_client_info": {
+          "package_name": "com.aufthesis.characteridiom3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500599984017-oosc1of3ahla7sga1k6gmbg5apc1bkfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjuFtM5mW7O8DvVgpRbr--IpDDoQQQaNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500599984017:android:0f14512f92a9f306",
+        "android_client_info": {
+          "package_name": "com.aufthesis.characteridiomatic4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500599984017-a2k59ikanp2b5khsiuqdn0jprp4g8emn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aufthesis.characteridiomatic4",
+            "certificate_hash": "4cc88f292564814ea4376920d72ffcb94616a7f0"
+          }
+        },
+        {
+          "client_id": "500599984017-k6a2c7f59ql9jer71slqtlvk2c9afjdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aufthesis.characteridiomatic4",
+            "certificate_hash": "7cd0402600ae61ae7e88773689ce855fecf21c48"
+          }
+        },
+        {
+          "client_id": "500599984017-oosc1of3ahla7sga1k6gmbg5apc1bkfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjuFtM5mW7O8DvVgpRbr--IpDDoQQQaNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500599984017-oosc1of3ahla7sga1k6gmbg5apc1bkfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500599984017:android:e0bde81b4fd9ba08",
+        "android_client_info": {
+          "package_name": "com.aufthesis.characteridioms4cn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500599984017-n58nsn01d65eb6ob39107iqh7vkpd18k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aufthesis.characteridioms4cn",
+            "certificate_hash": "4cc88f292564814ea4376920d72ffcb94616a7f0"
+          }
+        },
+        {
+          "client_id": "500599984017-oosc1of3ahla7sga1k6gmbg5apc1bkfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjuFtM5mW7O8DvVgpRbr--IpDDoQQQaNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500599984017-oosc1of3ahla7sga1k6gmbg5apc1bkfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500599984017:android:c4f538428333fd51",
+        "android_client_info": {
+          "package_name": "com.aufthesis.encryption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500599984017-e9cgqe9iu0dqevde6pjd9svgko1pqpnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aufthesis.encryption",
+            "certificate_hash": "4cc88f292564814ea4376920d72ffcb94616a7f0"
+          }
+        },
+        {
+          "client_id": "500599984017-vm636veq9de5gqknjbbjcga912e6uqkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aufthesis.encryption",
+            "certificate_hash": "f00fc186eb6521a7c03b709e8592f0cb9b958fb4"
+          }
+        },
+        {
+          "client_id": "500599984017-oosc1of3ahla7sga1k6gmbg5apc1bkfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjuFtM5mW7O8DvVgpRbr--IpDDoQQQaNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:500599984017:android:1f3d8311bdf25201",
         "android_client_info": {
           "package_name": "com.aufthesis.findnearstation"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "500599984017-8pj2uicp5b8dqu8fjkcdl3crnv3j2fn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aufthesis.findnearstation",
+            "certificate_hash": "4cc88f292564814ea4376920d72ffcb94616a7f0"
+          }
+        },
         {
           "client_id": "500599984017-esnu2q20fcu9oq2oiqf0bel3ba7bp6uf.apps.googleusercontent.com",
           "client_type": 1,
@@ -86,88 +268,18 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:500599984017:android:c4f538428333fd51",
+        "mobilesdk_app_id": "1:500599984017:android:a9bbbfcb4eb07163",
         "android_client_info": {
-          "package_name": "com.aufthesis.encryption"
+          "package_name": "com.aufthesis.searchidiom4"
         }
       },
       "oauth_client": [
         {
-          "client_id": "500599984017-vm636veq9de5gqknjbbjcga912e6uqkf.apps.googleusercontent.com",
+          "client_id": "500599984017-06fj6e3jo0dopa8isdutbfnii9975k3a.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.aufthesis.encryption",
-            "certificate_hash": "f00fc186eb6521a7c03b709e8592f0cb9b958fb4"
-          }
-        },
-        {
-          "client_id": "500599984017-oosc1of3ahla7sga1k6gmbg5apc1bkfk.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBjuFtM5mW7O8DvVgpRbr--IpDDoQQQaNE"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:500599984017:android:b49ab8728938c96b",
-        "android_client_info": {
-          "package_name": "com.aufthesis.characteridiom3"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "500599984017-oosc1of3ahla7sga1k6gmbg5apc1bkfk.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBjuFtM5mW7O8DvVgpRbr--IpDDoQQQaNE"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:500599984017:android:0f14512f92a9f306",
-        "android_client_info": {
-          "package_name": "com.aufthesis.characteridiomatic4"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "500599984017-k6a2c7f59ql9jer71slqtlvk2c9afjdv.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.aufthesis.characteridiomatic4",
-            "certificate_hash": "7cd0402600ae61ae7e88773689ce855fecf21c48"
+            "package_name": "com.aufthesis.searchidiom4",
+            "certificate_hash": "4cc88f292564814ea4376920d72ffcb94616a7f0"
           }
         },
         {
@@ -206,6 +318,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "500599984017-ku6kp8ejnj45obidq8o1j6dtlfn7dft2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aufthesis.similarjpkana",
+            "certificate_hash": "4cc88f292564814ea4376920d72ffcb94616a7f0"
+          }
+        },
         {
           "client_id": "500599984017-jfmadl1268hl3aqupd9ftbq1s9mgntjf.apps.googleusercontent.com",
           "client_type": 1,
